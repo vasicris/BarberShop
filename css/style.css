@@ -1,0 +1,18 @@
+.navigation-list li a {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;  
+    text-decoration: none;  
+}
+
+.header-navigation {
+    background-color: yellow;
+}
+
+.navigation-list li {
+    list-style: none;
+}

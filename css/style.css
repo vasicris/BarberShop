@@ -13,16 +13,16 @@ html {
 }
 
 .unstyled-list {
-list-style: none;
+    list-style: none;
 }
 
 .link {
-font-size: 12px;
-line-height: 16px;
-letter-spacing: 0.1em;
-color: #FFFFFF;
-text-decoration: none;
-margin: 10px;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 10px;
 }
 
 .header-navigation {
